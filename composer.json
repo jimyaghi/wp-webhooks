@@ -26,6 +26,6 @@
         "codeception/verify": "^0.3.3"
     },
     "autoload": {
-      "classmap": ["src/"]
+      "classmap": ["src"]
     }
 }
