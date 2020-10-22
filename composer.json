@@ -1,5 +1,5 @@
 {
-    "name": "liftux/wp-webhooks",
+    "name": "liftux/wp-webhooks-jy",
     "description": "Provides an infrastructure to register webhooks to send/receive.",
 	"type": "wordpress-plugin",
     "license": "GPL2+",
