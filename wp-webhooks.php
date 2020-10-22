@@ -5,7 +5,7 @@
  * Description:     Provides an infrastructure to register webhooks to send/receive.
  * Author:          Christian Chung
  * Author URI:      https://liftux.com
- * Text Domain:     wp-webhooks
+ * Text Domain:     wp-webhooks-jy
  * Domain Path:     /languages
  * Version:         0.1.0
  *
